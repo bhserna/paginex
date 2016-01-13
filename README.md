@@ -1,6 +1,6 @@
 # Paginex
 
-Paginex expose an struct that can be use to render the html of you
+Paginex gives you a struct that can be use to render the html of you
 pagination.
 
 ## Installation
